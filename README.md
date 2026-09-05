@@ -1,5 +1,4 @@
 # Web Scraping — Books to Scrape
-## Task 1
 
 ## Project Overview
 This project involves scraping real book data 
